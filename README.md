@@ -16,6 +16,5 @@
 [![](https://gtce.itsvg.in/api?username=gungdikaebs)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gungdikaebs&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
