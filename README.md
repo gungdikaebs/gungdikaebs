@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 I'm based in Bali<br>👨‍🎓 I'm Student in Global IT<br>🌱 I’m currently learning Javascript<br>💬 Ask me about random things<br>⚡ Fun fact i love traveling and fps game
+🌎 I'm based in Bali<br>👨‍🎓 I'm Student in STIKOM BALI<br>🌱 I’m currently learning Javascript<br>💬 Ask me about random things<br>⚡ Fun fact i love traveling and fps game
 
 
 ## 🌐 Socials:
