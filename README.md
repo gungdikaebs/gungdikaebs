@@ -24,6 +24,7 @@
 
 # 📊 GitHub Stats:
 ![](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gungdikaebs&type=contributions&theme=dark)
+
 ![](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gungdikaebs&type=languages&theme=dark&chart=bars)
 
 ### ✍️ Random Dev Quote
