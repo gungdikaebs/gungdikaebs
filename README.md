@@ -23,7 +23,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gungdikaebs&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gungdikaebs&theme=dark&chart=bars)
+![](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gungdikaebs&type=languages&theme=dark&chart=bars)
+![](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gungdikaebs&type=contributions&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
